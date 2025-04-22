@@ -16,7 +16,10 @@ Người làm chính: Nguyễn Minh Trung-B21DCDT226
 
 •	Arduino trên VS Code với PlatformIO: Môi trường phát triển này cung cấp một nền tảng lập trình quen thuộc và mạnh mẽ cho việc phát triển ứng dụng trên ESP32-S3. Nó hỗ trợ nhiều thư viện và công cụ cần thiết để lập trình và tương tác với phần cứng một cách dễ dàng.
 
+## Kết nối phần cứng
 
+ESP32S3 - DHT11 : pin18
+ESP32S3 - BH1750 : SCL: 9           SDA: 8  
 
 ## Kết quả 
 
